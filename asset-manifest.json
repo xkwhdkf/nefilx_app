@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nefilx_app/static/css/main.92fda086.css",
+    "main.js": "/nefilx_app/static/js/main.fb6c27e9.js",
+    "index.html": "/nefilx_app/index.html",
+    "main.92fda086.css.map": "/nefilx_app/static/css/main.92fda086.css.map",
+    "main.fb6c27e9.js.map": "/nefilx_app/static/js/main.fb6c27e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92fda086.css",
+    "static/js/main.fb6c27e9.js"
+  ]
+}
