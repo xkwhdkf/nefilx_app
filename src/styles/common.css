@@ -1,0 +1,8 @@
+@import url(reset.css);
+
+:root{
+  --red:rgb(229, 9, 20);
+  --deepred:rgb(185, 7, 16);
+  --font-size-btn:28px;
+  --font-size-strong:40px;
+}
